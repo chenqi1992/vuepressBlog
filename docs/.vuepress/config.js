@@ -1,5 +1,5 @@
 module.exports = {
-  title: '个人主页',
+  title: '陈祺博客',
   description: 'Personal Website',
   head: [ // 注入到当前页面的 HTML <head> 中的标签
     ['link', { rel: 'icon', href: '/images/photo.jpg' }],
@@ -10,6 +10,7 @@ module.exports = {
     ['meta', { 'http-quiv': 'expires', cotent: '0'}]
   ],
   serviceWorker: true, // 是否开启 PWA
+  dest: './dist',
   base: '/', // 部署到github相关的配置
   markdown: {
     lineNumbers: true // 代码块是否显示行号

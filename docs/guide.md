@@ -370,7 +370,7 @@ cd -
 
 此时，我们运行 npm run deploy 即可发布到自己的专属域名啦~
 
-### :clap: 大功告成，打开 [https://www.zhangyunchen.cc](https://www.zhangyunchen.cc) 看一下吧~~~
+<!-- ### :clap: 大功告成，打开 [https://www.zhangyunchen.cc](https://www.zhangyunchen.cc) 看一下吧~~~ -->
 
 拥有自己专属域名的个人博客感觉很酷哦~
 
